@@ -1,0 +1,20 @@
+HTML:
+Hyper Text markup language
+For creating a website we use HTML
+we know that a website menas it is the collection of multimedia packaqges
+A multimedia media is nothings but collection of audio,video,image,content,etc
+
+website means we have multiple webpage
+
+website layout will be a header,footer,main content with nav bar
+
+header: which denotes the heading and its related things like log and sub headings
+
+footer: the copy rights,cookies and related information about the header
+
+Main content page: where we will give lots of of information regrading the header.
+may consists of image,audio,content,video
+
+nav bar: can redirect one page to another.
+
+about HTML:
